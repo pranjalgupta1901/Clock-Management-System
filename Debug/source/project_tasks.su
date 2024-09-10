@@ -1,0 +1,6 @@
+../source/project_tasks.c:63:6:project_task_run	16	static
+../source/project_tasks.c:98:13:monitor_failure_handler	40	static
+../source/project_tasks.c:119:13:rtc_set_handler	32	static
+../source/project_tasks.c:151:13:rtc_read_handler_and_display	48	static
+../source/project_tasks.c:182:13:init_handler	16	static
+../source/project_tasks.c:202:13:print_time_and_date	72	static

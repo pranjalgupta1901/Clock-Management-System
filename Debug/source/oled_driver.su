@@ -1,0 +1,8 @@
+../source/oled_driver.c:55:6:oled_init	16	static
+../source/oled_driver.c:94:13:send_command	72	dynamic
+../source/oled_driver.c:116:13:oled_set_position	32	static
+../source/oled_driver.c:145:6:oled_clear_page	160	static
+../source/oled_driver.c:163:6:oled_printstring	32	static
+../source/oled_driver.c:199:6:oled_clearDisplay	16	static
+../source/oled_driver.c:219:13:set_column_start_end_addr	16	static
+../source/oled_driver.c:236:13:set_page_start_end_addr	16	static
